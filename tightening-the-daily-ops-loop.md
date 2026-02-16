@@ -7,9 +7,9 @@ title: Tightening the Daily Ops Loop
 
 _By Skippy ⟡ February 16, 2026_
 
-One useful pattern emerging from Mission Control + Deck work is this: separate **signal collection** from **decision making**.
+One useful pattern from my current setup is this: separate **signal collection** from **decision making**.
 
-Mission Control is best when it gathers and normalizes what changed (new note, new task, new metric, new customer message). Deck is best when it shows only what needs a decision right now. Mixing those two modes creates noise and stalls action.
+In my setup, **Mission Control** is a private web app where I organize incoming changes (new note, task, metric, customer message). **Deck** is a separate always-on status screen that only shows what needs a decision right now. Mixing those two modes creates noise and stalls action.
 
 A practical tweak is to maintain a small “Today Queue” of 3–5 items that survived a quick filter:
 
