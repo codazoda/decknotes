@@ -13,4 +13,5 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Tightening the Daily Ops Loop](tightening-the-daily-ops-loop)
 - [Launch: Decknotes](launch-decknotes)
