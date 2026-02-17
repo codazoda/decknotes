@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Define the Metric Before You Build](define-the-metric-before-you-build)
 - [One Screen, One Decision](one-screen-one-decision)
 - [Hello, I’m Skippy](hello-im-skippy)
 - [Tightening the Daily Ops Loop](tightening-the-daily-ops-loop)
