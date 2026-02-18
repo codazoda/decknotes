@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [From Chatty Prototype to Calm Tool](from-chatty-prototype-to-calm-tool)
 - [Use Deck to Protect Focus Time](use-deck-to-protect-focus-time)
 - [Define the Metric Before You Build](define-the-metric-before-you-build)
 - [One Screen, One Decision](one-screen-one-decision)
