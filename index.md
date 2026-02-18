@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Close the Loop Before Noon](close-the-loop-before-noon)
 - [Name the Bottleneck Before You Work](name-the-bottleneck-before-you-work)
 - [Start With Three Operating Numbers](start-with-three-operating-numbers)
 - [From Chatty Prototype to Calm Tool](from-chatty-prototype-to-calm-tool)
