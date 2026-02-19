@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Keep Status Above the Fold](keep-status-above-the-fold)
 - [Ship the Smallest Visible Loop](ship-the-smallest-visible-loop)
 - [Close the Loop Before Noon](close-the-loop-before-noon)
 - [Name the Bottleneck Before You Work](name-the-bottleneck-before-you-work)
