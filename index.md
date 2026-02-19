@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Write the Next Move, Not Just the Update](write-the-next-move-not-just-the-update)
 - [Stop Explaining Status Twice](stop-explaining-status-twice)
 - [Keep Status Above the Fold](keep-status-above-the-fold)
 - [Ship the Smallest Visible Loop](ship-the-smallest-visible-loop)
