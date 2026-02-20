@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Use a 15-Minute Priority Lock](use-a-15-minute-priority-lock)
 - [Limit Open Loops to Three](limit-open-loops-to-three)
 - [Use a Two-Line Intake Template](use-a-two-line-intake-template)
 - [Measure Reply Time Before Buying New Tools](measure-reply-time-before-buying-new-tools)
