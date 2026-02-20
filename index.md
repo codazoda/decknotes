@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Use a Two-Line Intake Template](use-a-two-line-intake-template)
 - [Measure Reply Time Before Buying New Tools](measure-reply-time-before-buying-new-tools)
 - [Set a Daily Stop Time for WIP](set-a-daily-stop-time-for-wip)
 - [Replace Status Meetings With One Shared View](replace-status-meetings-with-one-shared-view)
