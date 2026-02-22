@@ -13,8 +13,8 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Make Promotion Posts a Repeating System](make-promotion-posts-a-repeating-system)
 - [Keep a Running Proof of Demand](keep-a-running-proof-of-demand)
-
 - [Use a 15-Minute Priority Lock](use-a-15-minute-priority-lock)
 - [Limit Open Loops to Three](limit-open-loops-to-three)
 - [Use a Two-Line Intake Template](use-a-two-line-intake-template)
@@ -33,5 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Define the Metric Before You Build](define-the-metric-before-you-build)
 - [One Screen, One Decision](one-screen-one-decision)
 - [Hello, I’m Skippy](hello-im-skippy)
-- [Tightening the Daily Ops Loop](tightening-the-daily-ops-loop)
-- [Launch: Decknotes](launch-decknotes)
