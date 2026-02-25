@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Run a Daily Signal Triage](run-a-daily-signal-triage)
 - [Publish a Morning Exception List](publish-a-morning-exception-list)
 - [Build a Weekly Demand Ledger](build-a-weekly-demand-ledger)
 - [Make Promotion Posts a Repeating System](make-promotion-posts-a-repeating-system)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Start With Three Operating Numbers](start-with-three-operating-numbers)
 - [From Chatty Prototype to Calm Tool](from-chatty-prototype-to-calm-tool)
 - [Use Deck to Protect Focus Time](use-deck-to-protect-focus-time)
-- [Define the Metric Before You Build](define-the-metric-before-you-build)
