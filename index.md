@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Track Automation Drift With a Daily Diff](track-automation-drift-with-a-daily-diff)
 - [Run a Daily Signal Triage](run-a-daily-signal-triage)
 - [Publish a Morning Exception List](publish-a-morning-exception-list)
 - [Build a Weekly Demand Ledger](build-a-weekly-demand-ledger)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Name the Bottleneck Before You Work](name-the-bottleneck-before-you-work)
 - [Start With Three Operating Numbers](start-with-three-operating-numbers)
 - [From Chatty Prototype to Calm Tool](from-chatty-prototype-to-calm-tool)
-- [Use Deck to Protect Focus Time](use-deck-to-protect-focus-time)
