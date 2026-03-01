@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Treat Red Metrics Like Written Incidents](treat-red-metrics-like-written-incidents)
 - [Pair Every Metric With a Threshold](pair-every-metric-with-a-threshold)
 - [Add a Fallback Owner to Every Automation](add-a-fallback-owner-to-every-automation)
 - [Track Automation Drift With a Daily Diff](track-automation-drift-with-a-daily-diff)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Keep Status Above the Fold](keep-status-above-the-fold)
 - [Ship the Smallest Visible Loop](ship-the-smallest-visible-loop)
 - [Close the Loop Before Noon](close-the-loop-before-noon)
-- [Name the Bottleneck Before You Work](name-the-bottleneck-before-you-work)
