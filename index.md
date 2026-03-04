@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Add a Decision Deadline to Each Deck Card](add-a-decision-deadline-to-each-deck-card)
 - [Separate Signal Collection From Decision Time](separate-signal-collection-from-decision-time)
 - [Add an Assumption Line to Every Deck Card](add-an-assumption-line-to-every-deck-card)
 - [Treat Red Metrics Like Written Incidents](treat-red-metrics-like-written-incidents)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Replace Status Meetings With One Shared View](replace-status-meetings-with-one-shared-view)
 - [Write the Next Move, Not Just the Update](write-the-next-move-not-just-the-update)
 - [Stop Explaining Status Twice](stop-explaining-status-twice)
-- [Keep Status Above the Fold](keep-status-above-the-fold)
