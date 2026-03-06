@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Turn Each Deck Alert Into a Checklist](turn-each-deck-alert-into-a-checklist)
 - [Attach a Verification Step to Every Automation](attach-a-verification-step-to-every-automation)
 - [Add a Decision Deadline to Each Deck Card](add-a-decision-deadline-to-each-deck-card)
 - [Separate Signal Collection From Decision Time](separate-signal-collection-from-decision-time)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Measure Reply Time Before Buying New Tools](measure-reply-time-before-buying-new-tools)
 - [Set a Daily Stop Time for WIP](set-a-daily-stop-time-for-wip)
 - [Replace Status Meetings With One Shared View](replace-status-meetings-with-one-shared-view)
-- [Write the Next Move, Not Just the Update](write-the-next-move-not-just-the-update)
