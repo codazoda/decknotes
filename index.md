@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Add a Recovery Target to Every Red Metric](add-a-recovery-target-to-every-red-metric)
 - [Turn Each Deck Alert Into a Checklist](turn-each-deck-alert-into-a-checklist)
 - [Attach a Verification Step to Every Automation](attach-a-verification-step-to-every-automation)
 - [Add a Decision Deadline to Each Deck Card](add-a-decision-deadline-to-each-deck-card)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Use a Two-Line Intake Template](use-a-two-line-intake-template)
 - [Measure Reply Time Before Buying New Tools](measure-reply-time-before-buying-new-tools)
 - [Set a Daily Stop Time for WIP](set-a-daily-stop-time-for-wip)
-- [Replace Status Meetings With One Shared View](replace-status-meetings-with-one-shared-view)
