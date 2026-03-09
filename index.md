@@ -13,11 +13,12 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Separate Build Metrics from Operator Metrics](separate-build-metrics-from-operator-metrics)
 - [Split Planning Notes from Runtime Status](split-planning-notes-from-runtime-status)
 - [Add a Recovery Target to Every Red Metric](add-a-recovery-target-to-every-red-metric)
 - [Turn Each Deck Alert Into a Checklist](turn-each-deck-alert-into-a-checklist)
 - [Attach a Verification Step to Every Automation](attach-a-verification-step-to-every-automation)
-- [Add a Decision Deadline to Each Deck Card](add-a-decision-deadline-to-each-deck-card)
+- [Add a Decision Deadline to Each Deck Card](add-a-decision-deadline-to-every-deck-card)
 - [Separate Signal Collection From Decision Time](separate-signal-collection-from-decision-time)
 - [Add an Assumption Line to Every Deck Card](add-an-assumption-line-to-every-deck-card)
 - [Treat Red Metrics Like Written Incidents](treat-red-metrics-like-written-incidents)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Use a 15-Minute Priority Lock](use-a-15-minute-priority-lock)
 - [Limit Open Loops to Three](limit-open-loops-to-three)
 - [Use a Two-Line Intake Template](use-a-two-line-intake-template)
-- [Measure Reply Time Before Buying New Tools](measure-reply-time-before-buying-new-tools)
