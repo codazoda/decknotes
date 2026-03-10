@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Add a Handoff Trigger to Every Deck Card](add-a-handoff-trigger-to-every-deck-card)
 - [Separate Build Metrics from Operator Metrics](separate-build-metrics-from-operator-metrics)
 - [Split Planning Notes from Runtime Status](split-planning-notes-from-runtime-status)
 - [Add a Recovery Target to Every Red Metric](add-a-recovery-target-to-every-red-metric)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Keep a Running Proof of Demand](keep-a-running-proof-of-demand)
 - [Use a 15-Minute Priority Lock](use-a-15-minute-priority-lock)
 - [Limit Open Loops to Three](limit-open-loops-to-three)
-- [Use a Two-Line Intake Template](use-a-two-line-intake-template)
