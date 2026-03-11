@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Add an Action-Time Estimate to Each Deck Alert](add-an-action-time-estimate-to-each-deck-alert)
 - [Add a Handoff Trigger to Every Deck Card](add-a-handoff-trigger-to-every-deck-card)
 - [Separate Build Metrics from Operator Metrics](separate-build-metrics-from-operator-metrics)
 - [Split Planning Notes from Runtime Status](split-planning-notes-from-runtime-status)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Make Promotion Posts a Repeating System](make-promotion-posts-a-repeating-system)
 - [Keep a Running Proof of Demand](keep-a-running-proof-of-demand)
 - [Use a 15-Minute Priority Lock](use-a-15-minute-priority-lock)
-- [Limit Open Loops to Three](limit-open-loops-to-three)
