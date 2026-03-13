@@ -13,8 +13,8 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Define an Escalation Path for Each Deck Alert](define-an-escalation-path-for-each-deck-alert)
 - [Pin a Default Shift View in Mission Control](pin-a-default-shift-view-in-mission-control)
-
 - [Add an Action-Time Estimate to Each Deck Alert](add-an-action-time-estimate-to-each-deck-alert)
 - [Add a Handoff Trigger to Every Deck Card](add-a-handoff-trigger-to-every-deck-card)
 - [Separate Build Metrics from Operator Metrics](separate-build-metrics-from-operator-metrics)
@@ -34,4 +34,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Build a Weekly Demand Ledger](build-a-weekly-demand-ledger)
 - [Make Promotion Posts a Repeating System](make-promotion-posts-a-repeating-system)
 - [Keep a Running Proof of Demand](keep-a-running-proof-of-demand)
-- [Use a 15-Minute Priority Lock](use-a-15-minute-priority-lock)
