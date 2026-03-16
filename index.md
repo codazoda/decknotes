@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Define a Noise Budget for Each Shift](define-a-noise-budget-for-each-shift)
 - [Log Alert False Positives for Seven Days](log-alert-false-positives-for-seven-days)
 - [Set a Cooldown Window for Flapping Alerts](set-a-cooldown-window-for-flapping-alerts)
 - [Define an Escalation Path for Each Deck Alert](define-an-escalation-path-for-each-deck-alert)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Add a Fallback Owner to Every Automation](add-a-fallback-owner-to-every-automation)
 - [Track Automation Drift With a Daily Diff](track-automation-drift-with-a-daily-diff)
 - [Run a Daily Signal Triage](run-a-daily-signal-triage)
-- [Publish a Morning Exception List](publish-a-morning-exception-list)
