@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Capture a Shift Baseline Before Making Changes](capture-a-shift-baseline-before-making-changes)
 - [Log Decision Reversals in Mission Control](log-decision-reversals-in-mission-control)
 - [Define a Noise Budget for Each Shift](define-a-noise-budget-for-each-shift)
 - [Log Alert False Positives for Seven Days](log-alert-false-positives-for-seven-days)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Treat Red Metrics Like Written Incidents](treat-red-metrics-like-written-incidents)
 - [Pair Every Metric With a Threshold](pair-every-metric-with-a-threshold)
 - [Add a Fallback Owner to Every Automation](add-a-fallback-owner-to-every-automation)
-- [Track Automation Drift With a Daily Diff](track-automation-drift-with-a-daily-diff)
