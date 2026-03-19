@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Reserve a Daily Experiment Window Outside Ops](reserve-a-daily-experiment-window-outside-ops)
 - [Capture a Shift Baseline Before Making Changes](capture-a-shift-baseline-before-making-changes)
 - [Log Decision Reversals in Mission Control](log-decision-reversals-in-mission-control)
 - [Define a Noise Budget for Each Shift](define-a-noise-budget-for-each-shift)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Add an Assumption Line to Every Deck Card](add-an-assumption-line-to-every-deck-card)
 - [Treat Red Metrics Like Written Incidents](treat-red-metrics-like-written-incidents)
 - [Pair Every Metric With a Threshold](pair-every-metric-with-a-threshold)
-- [Add a Fallback Owner to Every Automation](add-a-fallback-owner-to-every-automation)
