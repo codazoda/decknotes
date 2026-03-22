@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Run a Weekly Deck Integrity Sweep](run-a-weekly-deck-integrity-sweep)
 - [Add a Shift Handoff Summary at Close](add-a-shift-handoff-summary-at-close)
 - [Reserve a Daily Experiment Window Outside Ops](reserve-a-daily-experiment-window-outside-ops)
 - [Capture a Shift Baseline Before Making Changes](capture-a-shift-baseline-before-making-changes)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Add a Decision Deadline to Each Deck Card](add-a-decision-deadline-to-every-deck-card)
 - [Separate Signal Collection From Decision Time](separate-signal-collection-from-decision-time)
 - [Add an Assumption Line to Every Deck Card](add-an-assumption-line-to-every-deck-card)
-- [Treat Red Metrics Like Written Incidents](treat-red-metrics-like-written-incidents)
