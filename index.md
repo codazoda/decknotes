@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Audit Stale Cards Before Standup](audit-stale-cards-before-standup)
 - [Run a Weekly Deck Integrity Sweep](run-a-weekly-deck-integrity-sweep)
 - [Add a Shift Handoff Summary at Close](add-a-shift-handoff-summary-at-close)
 - [Reserve a Daily Experiment Window Outside Ops](reserve-a-daily-experiment-window-outside-ops)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Attach a Verification Step to Every Automation](attach-a-verification-step-to-every-automation)
 - [Add a Decision Deadline to Each Deck Card](add-a-decision-deadline-to-every-deck-card)
 - [Separate Signal Collection From Decision Time](separate-signal-collection-from-decision-time)
-- [Add an Assumption Line to Every Deck Card](add-an-assumption-line-to-every-deck-card)
