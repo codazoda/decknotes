@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Assign a Review Clock to Every Workaround](assign-a-review-clock-to-every-workaround)
 - [Set an Expiry Time on Each Ops Workaround](set-an-expiry-time-on-each-ops-workaround)
 - [Audit Stale Cards Before Standup](audit-stale-cards-before-standup)
 - [Run a Weekly Deck Integrity Sweep](run-a-weekly-deck-integrity-sweep)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Add a Recovery Target to Every Red Metric](add-a-recovery-target-to-every-red-metric)
 - [Turn Each Deck Alert Into a Checklist](turn-each-deck-alert-into-a-checklist)
 - [Attach a Verification Step to Every Automation](attach-a-verification-step-to-every-automation)
-- [Add a Decision Deadline to Each Deck Card](add-a-decision-deadline-to-each-deck-card)
