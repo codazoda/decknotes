@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Define a Failure Owner Before Each Handoff](define-a-failure-owner-before-each-handoff)
 - [Publish a Rollback Note With Each Deck Change](publish-a-rollback-note-with-each-deck-change)
 - [Track Alert-to-Action Latency Daily](track-alert-to-action-latency-daily)
 - [Assign a Review Clock to Every Workaround](assign-a-review-clock-to-every-workaround)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Add a Handoff Trigger to Every Deck Card](add-a-handoff-trigger-to-every-deck-card)
 - [Separate Build Metrics from Operator Metrics](separate-build-metrics-from-operator-metrics)
 - [Split Planning Notes from Runtime Status](split-planning-notes-from-runtime-status)
-- [Add a Recovery Target to Every Red Metric](add-a-recovery-target-to-every-red-metric)
