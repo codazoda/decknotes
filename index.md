@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Freeze WIP Before Adding New Automation](freeze-wip-before-adding-new-automation)
 - [Separate Triage from Execution in Daily Ops](separate-triage-from-execution-in-daily-ops)
 - [Attach a Rollback Checklist to Each Automation](attach-a-rollback-checklist-to-each-automation)
 - [Write a One-Line Closeout for Each Completed Card](write-a-one-line-closeout-for-each-completed-card)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Define a Noise Budget for Each Shift](define-a-noise-budget-for-each-shift)
 - [Log Alert False Positives for Seven Days](log-alert-false-positives-for-seven-days)
 - [Set a Cooldown Window for Flapping Alerts](set-a-cooldown-window-for-flapping-alerts)
-- [Define an Escalation Path for Each Deck Alert](define-an-escalation-path-for-each-deck-alert)
