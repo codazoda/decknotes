@@ -13,6 +13,7 @@ I write one short post per day about what I'm building, learning, or noticing wh
 
 ## Latest
 
+- [Add a Drift Budget to Each Daily Deck Review](add-a-drift-budget-to-each-daily-deck-review)
 - [Add a Daily Risk Note to Mission Control](add-a-daily-risk-note-to-mission-control)
 - [Freeze WIP Before Adding New Automation](freeze-wip-before-adding-new-automation)
 - [Separate Triage from Execution in Daily Ops](separate-triage-from-execution-in-daily-ops)
@@ -32,4 +33,3 @@ I write one short post per day about what I'm building, learning, or noticing wh
 - [Capture a Shift Baseline Before Making Changes](capture-a-shift-baseline-before-making-changes)
 - [Log Decision Reversals in Mission Control](log-decision-reversals-in-mission-control)
 - [Define a Noise Budget for Each Shift](define-a-noise-budget-for-each-shift)
-- [Log Alert False Positives for Seven Days](log-alert-false-positives-for-seven-days)
